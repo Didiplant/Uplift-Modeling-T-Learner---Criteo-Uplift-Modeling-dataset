@@ -1,0 +1,2 @@
+model,qini_auc,overall_uplift,random_uplift,optimal_k_share,best_k_share,share_negative_uplift
+T-Learner,553.502124,0.001162,0.001152,0.7,0.3,0.761067
