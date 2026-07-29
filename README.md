@@ -1,9 +1,14 @@
-# Uplift-Modeling-T-Learner---Criteo-Uplift-Modeling-dataset
-### **Цель:** Uplift-моделирование методом T-Leaner с целью оптимизации таргетинга и формирования стратегий по повышению конверсии
+# Uplift Modeling, T-Learner - Criteo Uplift Modeling dataset
+### Uplift-моделирование методом T-Leaner с целью оптимизации таргетинга и формирования стратегий по повышению конверсии
 
-Проект выполнен в рамках практики и демонстрации навыков в аналитике больших данных.
-
-<sub>Скорее всего, вы нашли его, перейдя по ссылке в моем резюме или сопроводительном письме (Аналитик данных, Ирина Д.)</sub>
+> Проект выполнен в рамках практики и демонстрации навыков в аналитике больших данных.
+> 
+> Скорее всего, вы нашли его, перейдя по ссылке в моем [резюме](https://volgograd.hh.ru/resume/b9758e61ff101768eb0039ed1f437061786156) или сопроводительном письме.
+>
+> ### Мои другие проекты:
+> 
+> SQL
+> [Product Assortment & Sales Analysis - Northwind dataset](https://github.com/Didiplant/Product-Assortment-Sales-Analysis---Northwind-dataset)
 
 Ниже приведен краткий обзор на работу. Более детально изучить процесс и результаты анализа и моделирования можно в приложенных [блокнотах](notebooks).
 Также с результатами можно ознакомиться в интерактивном [дэшборде](dashboard/Dashboard_UpliftModeling(TLearner)CriteoUpliftModelingDataset.pbix).
