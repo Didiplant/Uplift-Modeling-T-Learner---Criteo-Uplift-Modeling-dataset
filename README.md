@@ -14,7 +14,7 @@
 
 
 Ниже приведен краткий обзор на работу. Более детально изучить процесс и результаты анализа и моделирования можно в приложенных [блокнотах](notebooks).
-Также с результатами можно ознакомиться в интерактивном [дэшборде](dashboard/Dashboard_UpliftModeling(TLearner)CriteoUpliftModelingDataset.pbix).
+Также с результатами можно ознакомиться в интерактивном [дашборде](dashboard/Dashboard_UpliftModeling(TLearner)CriteoUpliftModelingDataset.pbix).
 
 ### **Используемые данные:**
 Датасет **Uplift Modeling , Marketing Campaign Data** (лицензия: CC0), создан Criteo AI Lab (французская компания, проводящая исследования в области онлайн-рекламы)
@@ -34,12 +34,12 @@
 Например, в индустрии цифровой рекламы лечение осуществляется с целью воздействия (exposure) объявлениями/рекламой на пользователей, и Uplift-моделирование помогает направить маркетинговые усилия на тех пользователей, для которых оно наиболее эффективно. 
 
 ### **Инструменты и навыки:**
-Uplift Modeling (T-Learner), Qini/Uplift@k/UpliftByPercentile метрики, Python (pandas, numpy, matplotlib, seaborn, sklearn), Power BI (дэшборд), машинное обучение (логистическая регрессия), аналитика данных.
+Uplift Modeling (T-Learner), Qini/Uplift@k/UpliftByPercentile метрики, Python (pandas, numpy, matplotlib, seaborn, sklearn), Power BI (дашборд), машинное обучение (логистическая регрессия), аналитика данных.
 
 ### **Структура проекта:**
 
     Uplift-Modeling-T-Learner---Criteo-Uplift-Modeling-dataset/
-    ├── dashboard/    # Дэшборд с метриками
+    ├── dashboard/    # Дашборд с метриками
     ├── data/         # Метрики в формате .csv
     ├── images/       # Изображения из README.md
     ├── notebooks/    # Блокноты с кодом и подробными комментариями
