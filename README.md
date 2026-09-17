@@ -14,7 +14,7 @@
 
 
 Ниже приведен краткий обзор на работу. Более детально изучить процесс и результаты анализа и моделирования можно в приложенных [блокнотах](notebooks).
-Также с результатами можно ознакомиться в интерактивном [дашборде](dashboard/Dashboard_UpliftModeling(TLearner)CriteoUpliftModelingDataset.pbix).
+Также с результатами можно ознакомиться в интерактивном [дашборде](dashboard/Dashboard_UpliftModeling(TLearner)CriteoUpliftModelingDataset.pbix), который в формате изображения дублируется ниже.
 
 ### **Цель:**
 
@@ -90,13 +90,7 @@ Uplift Modeling (T-Learner), Qini/Uplift@k/UpliftByPercentile метрики, Py
 - Overall uplift ≈ ITT - корректная калибровка модели, высокое доверие к предсказаниям модели.
 - Оценки по перцентилям имеют меньшую надежность, чем Qini Curve. При принятии решений лучше ориентироваться на результаты Qini.
 
-![QiniCurve](images/qini_curve.png)
-
-![upliftk](images/uplift@k.png)
-
-![PctBars](images/percentile_bars.png)
-
-![PctLines](images/percentile_lines.png)
+![dashboard](images/dashboard.png)
 
 **Рекомендованная стратегия по результатам моделирования:**
 
